@@ -32,7 +32,7 @@ sudo make install
 To run the program, execute:
 
 ```
-hi-there
+demo
 ```
 
 You can uninstall the program by running:
